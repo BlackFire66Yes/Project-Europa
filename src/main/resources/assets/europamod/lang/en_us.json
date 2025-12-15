@@ -1,0 +1,9 @@
+{
+  "creativetab.europamod.items": "EuropaMod Items",
+  "creativetab.europamod.blocks": "EuropaMod Blocks",
+
+  "item.europamod.uranium" : "Uranium",
+
+  "block.europamod.uranium_crystal": "Uranium Crystal",
+  "item.europamod.uranium_crystal": "Uranium Crystal"
+}
